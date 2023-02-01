@@ -1,0 +1,15 @@
+*, Ở giao diện bắt đầu:
++, Để Chơi có thể dùng click vào "start" hoặc bấm nhanh phím "S"
++, Để Thoát có thể dùng click vào "End" hoặc bấm nhanh phím "E"
+
+*, Giai đoạn bắt đầu chơi:
+-, Có 2 cách để chọn câu trả lời:
+1, Dùng chuột để chọn kết quả
+2, Bấm phím 1, 2, 3, 4 chọn thứ tự kết quả tương ứng
+
+-, Khi nộp bài có thể bấm vào "submit" hoặc bấm Enter ở bàn phím phụ đều được.
+
+*, Giai đoạn kết thúc: 
+   Thoát hoàn toàn khỏi trò chơi bằng cách bấm dấu cách
+
+ 

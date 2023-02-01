@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1675183000 source:d:\codengoc\game coding\code\wibtt\main.cpp
+	<bits/stdc++.h>
+	<Engine.h>
+
+1675177986 source:d:\codengoc\game coding\code\wibtt\src\core\engine.cpp
+	"Engine.h"
+	<bits/stdc++.h>
+	<TextureManager.h>
+	<Input.h>
+
+1675182469 d:\codengoc\game coding\code\wibtt\src\core\engine.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<Input.h>
+	<RandNum.h>
+
+1674534669 source:d:\codengoc\game coding\code\wibtt\src\graphics\texturemanager.cpp
+	"TextureManager.h"
+	<Engine.h>
+
+1674534800 d:\codengoc\game coding\code\wibtt\src\graphics\texturemanager.h
+	<string>
+	<SDL.h>
+	<map>
+
+1674918817 source:d:\codengoc\game coding\code\wibtt\src\inputs\input.cpp
+	"Input.h"
+	<Engine.h>
+
+1674876996 d:\codengoc\game coding\code\wibtt\src\inputs\input.h
+	<SDL.h>
+	<bits/stdc++.h>
+
+1674877133 d:\codengoc\game coding\code\wibtt\src\rand\randnum.h
+	<bits/stdc++.h>
+	<ctime>
+
+1674709133 source:d:\codengoc\game coding\code\wibtt\src\rand\randnum.cpp
+	"RandNum.h"
+
